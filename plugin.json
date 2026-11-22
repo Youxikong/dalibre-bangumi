@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "api": 1,
   "description": "从 Bangumi.tv 搜索书籍元数据",
-  "author": "Cusox",
+  "author": "Youxikong",
   "icon": "database",
   "capabilities": {
     "metadata": {
